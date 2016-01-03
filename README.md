@@ -1,2 +1,2 @@
-# projects
-some projects I have worked on
+# turingVM
+A simple turing machine written in clojure recursively.
